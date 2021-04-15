@@ -1,0 +1,15 @@
+/*
+  This is the stylesheet for the JS3.html page
+  Author: Aubrey Davies
+  File: JS3.css
+  Date: 04/15/2021
+*/
+
+.err {
+    color: darkred;
+    display: none;
+}
+
+.hee {
+    display: none;
+}
